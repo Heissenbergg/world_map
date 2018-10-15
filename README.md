@@ -1,8 +1,7 @@
-# world map
+﻿## world map
 
--- only for world countries
 
-[A[A[A[A[C# world map
 
-[A[B[A[B[B
-# jvectormap.com/maps/world/world
+only for world countries
+
+# jvectormap.com/maps/world/world
